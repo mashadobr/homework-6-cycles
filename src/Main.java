@@ -13,7 +13,7 @@ public class Main {
         }
         //Task 3
         System.out.println("задача 3");
-        for (int i = 0; i <= 17; i = i + 2) {
+        for (int i = 0; i <= 17; i +=  2) {
             System.out.println(i);
         }
         //Task 4
